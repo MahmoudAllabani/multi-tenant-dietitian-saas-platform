@@ -32,7 +32,7 @@ SNOS is designed from the workflow outward. Requirements were gathered directly 
 The result is not simply a diet-plan generator. It is the operational backbone for a nutrition practice—from intake and clinical review through adherence, communication, and repeatable delivery.
 
 <p align="center">
-  <img src="docs/images/02-mobile-client-app.png" width="250" alt="SNOS Mobile Client App - Diet Plan View"><br>
+  <img src="docs/images/02-mobile-client-app.jpeg" width="250" alt="SNOS Mobile Client App - Diet Plan View"><br>
   <em>Client-facing mobile interface displaying the structured daily diet plan for easy on-the-go access.</em>
 </p>
 
@@ -85,7 +85,7 @@ This is supported by a dedicated .NET application test project and frontend Vite
 | **Super-admin capability** | Support platform-level operations across the SaaS environment. |
 
 <p align="center">
-  <img src="docs/images/03-dietitian-signup-verification.jpeg" width="800" alt="Professional Onboarding and License Verification Flow"><br>
+  <img src="docs/images/03-dietitian-signup-verification.png" width="800" alt="Professional Onboarding and License Verification Flow"><br>
   <em>Secure B2B onboarding flow requiring professional dietitian license verification.</em>
 </p>
 
