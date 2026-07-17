@@ -12,8 +12,10 @@
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Deployment-Vercel%20%2B%20Render-111111?logo=vercel&logoColor=white)
 
-> [!NOTE]
-> **Insert Web Dashboard screenshot here** — show the dietitian workspace, client overview, and operational navigation.
+<p align="center">
+  <img src="docs/images/01-web-dashboard-workspace.png" width="800" alt="SNOS Web Dashboard and Dietitian Workspace"><br>
+  <em>The centralized dietitian workspace for client management and daily clinical operations.</em>
+</p>
 
 ## The product
 
@@ -29,8 +31,10 @@ SNOS is designed from the workflow outward. Requirements were gathered directly 
 
 The result is not simply a diet-plan generator. It is the operational backbone for a nutrition practice—from intake and clinical review through adherence, communication, and repeatable delivery.
 
-> [!NOTE]
-> **Insert Mobile App view here** — show a client-facing diet plan, progress screen, appointment request, or meal engagement flow.
+<p align="center">
+  <img src="docs/images/02-mobile-client-app.png" width="250" alt="SNOS Mobile Client App - Diet Plan View"><br>
+  <em>Client-facing mobile interface displaying the structured daily diet plan for easy on-the-go access.</em>
+</p>
 
 ## Architecture & full-stack scope
 
@@ -80,8 +84,10 @@ This is supported by a dedicated .NET application test project and frontend Vite
 | **Mobile app** | Extend the client experience into a mobile-first companion for plans, progress, appointment requests, and engagement. |
 | **Super-admin capability** | Support platform-level operations across the SaaS environment. |
 
-> [!NOTE]
-> **Insert System Architecture or CI Pipeline screenshot here** — show the high-level service boundaries, deployment topology, or a successful GitHub Actions run to demonstrate engineering scale and delivery quality without exposing proprietary data models.
+<p align="center">
+  <img src="docs/images/03-dietitian-signup-verification.jpeg" width="800" alt="Professional Onboarding and License Verification Flow"><br>
+  <em>Secure B2B onboarding flow requiring professional dietitian license verification.</em>
+</p>
 
 ## Team structure & my contributions
 
